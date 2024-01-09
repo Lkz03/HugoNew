@@ -1,0 +1,4 @@
+baseURL = 'https://Lkz03.github.io/'
+theme = 'hello-friend'
+languageCode = 'en-us'
+title = 'Mano Hugo Laboras'
